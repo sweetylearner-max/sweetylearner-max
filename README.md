@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:c800a1,100:ff6b6b&height=200&section=header&text=AKANKSHA%20BURSU&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Web%20Dev%20%7C%20AI%20%7C%20Mobile%20%7C%20Space%20Enthusiast&descAlignY=58&descColor=f0c6ff&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=c800a1&center=true&vCenter=true&width=700&lines=Frontend+%7C+Full+Stack+%7C+Mobile+Dev;AI+%7C+HealthTech+%7C+Space+Exploration+%F0%9F%9A%80;Hackathon+2.0+Winner+%F0%9F%8F%86+%E2%82%B91%2C50%2C000+Prize;Building+in+Silence%2C+Letting+Output+Speak+%F0%9F%A4%AB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=c800a1&center=true&vCenter=true&width=700&lines=Frontend+%7C+Full+Stack+%7C+Mobile+Dev;AI+%7C+HealthTech+%7C+Space+Exploration+%F0%9F%9A%80;Hackathon+2.0+Winner+%F0%9F%8F%86+%E2%82%B91%2C50%2C000+Prize;CodeSphere+Winner+%F0%9F%8F%86+%E2%82%B950%2C000+Prize;Building+in+Silence%2C+Letting+Output+Speak+%F0%9F%A4%AB)](https://git.io/typing-svg)
 
 ### Hi, I'm Akanksha Bursu 👋
 
@@ -49,6 +49,8 @@ class AkankshaB:
 |---|---|
 | 🏆 **Hackathon 2.0 Winner** | ₹1,50,000 Prize · Govt. of India (Ministry of Science & Technology) |
 | 💡 **Project: Guardian Pulse** | AI-powered real-time healthcare monitoring system |
+| 🏆 **CodeSphere 36hr Hackathon Winner** | ₹50,000 Prize · Emergency Response Platform |
+| 🚨 **Project: ResQConnect** | AI-powered emergency alert & response coordination platform |
 | 🏅 **HackLoop 2026** | Recognized for Problem Solving & Innovation |
 | 👥 **Team Guardian Innovators** | Built with Jaheer, Fawaz Aariz, Sandhya, Akanksha & Devansh |
 
@@ -63,6 +65,20 @@ class AkankshaB:
 - 🧠 AI-based health risk analysis
 - 💊 Medication scheduling & health insights
 - 🚨 Emergency alert system for critical conditions
+
+---
+
+### 🚨 ResQConnect — CodeSphere 36hr Hackathon Winner (₹50,000)
+
+> AI-powered emergency alert & response coordination platform — bridging civilians and emergency responders in real-time
+
+- 🗺️ Real-time emergency map with live alert visualization (Leaflet + marker clustering)
+- 📢 Anonymous civilian reporting — no sign-in required
+- 🔐 Role-based admin dashboard with department-specific views & RLS
+- 🎙️ Voice input support — hands-free emergency reporting
+- 📍 GPS location capture on alert submission
+- 📊 Analytics dashboard — alert trends & response time insights
+- 🌐 Multilingual support (i18n) + Dark/Light mode
 
 ---
 
@@ -113,7 +129,8 @@ class AkankshaB:
 
 | Project | Description | Live | Tech |
 |---|---|---|---|
-| 🛡️ **Guardian Pulse** | AI healthcare monitoring — Hackathon 2.0 Winner | 🏆 | FastAPI, AI/ML, React |
+| 🛡️ **Guardian Pulse** | AI healthcare monitoring — Hackathon 2.0 Winner 🏆 ₹1,50,000 | 🏆 | FastAPI, AI/ML, React |
+| 🚨 **ResQConnect** | Emergency alert & response platform — CodeSphere Winner 🏆 ₹50,000 | [Repo](https://github.com/sweetylearner-max/ResQConnect) | React 18, TypeScript, Supabase, Leaflet |
 | 🔍 **PhantomTrace AI** | Dark web threat intelligence platform | [Live](https://phantom-trace-ai.vercel.app/) | TypeScript, React, FastAPI, MongoDB |
 | 🏥 **Emergency Hospital** | AI-powered emergency hospital recommendation | [Live](https://emergency-hospital-rec-system.netlify.app/) | React, Node.js, MongoDB |
 | 🧠 **SereneMind** | Student mental wellness app — 5 languages | [Live](https://project-ttmyg.vercel.app/) | Next.js, Supabase, Gemini AI |
@@ -174,7 +191,7 @@ class AkankshaB:
 
 *"Silence is not emptiness — it is where the best work happens."*
 
-🏆 **Hackathon 2.0 Winner · ₹1,50,000 · Govt. of India** 🏆
+🏆 **Hackathon 2.0 Winner · ₹1,50,000 · Govt. of India** &nbsp;|&nbsp; 🏆 **CodeSphere Winner · ₹50,000** 🏆
 
 ⭐ **Open to collaboration, innovation, and building impactful solutions** ⭐
 
