@@ -123,26 +123,31 @@ class AkankshaB:
 
 ---
 
-## 🚀 Featured Projects
+
+## 🏅 GitHub Trophies
 
 <div align="center">
 
-| Project | Description | Live | Tech |
-|---|---|---|---|
-| 🛡️ **Guardian Pulse** | AI healthcare monitoring — Hackathon 2.0 Winner 🏆 ₹1,50,000 | 🏆 | FastAPI, AI/ML, React |
-| 🚨 **ResQConnect** | Emergency alert & response platform — CodeSphere Winner 🏆 ₹50,000 | [Repo](https://github.com/sweetylearner-max/ResQConnect) | React 18, TypeScript, Supabase, Leaflet |
-| 🔍 **PhantomTrace AI** | Dark web threat intelligence platform | [Live](https://phantom-trace-ai.vercel.app/) | TypeScript, React, FastAPI, MongoDB |
-| 🏥 **Emergency Hospital** | AI-powered emergency hospital recommendation | [Live](https://emergency-hospital-rec-system.netlify.app/) | React, Node.js, MongoDB |
-| 🧠 **SereneMind** | Student mental wellness app — 5 languages | [Live](https://project-ttmyg.vercel.app/) | Next.js, Supabase, Gemini AI |
-| 🎯 **MockMate AI** | AI mock interview platform with feedback | [Live](https://mockmate-ai-prep.vercel.app/) | React, Groq API |
-| 🌱 **NutriGuide** | AI nutrition & meal recommendation system | [Live](https://nutriguide-five.vercel.app/) | React, Python ML |
-| 🚜 **AgriRent** | Smart agricultural equipment rental platform | [Live](https://github.com/sweetylearner-max/Agrirent-Platform-) | React 18, Node.js |
-| 🩸 **Nyssa** | AI-powered period tracker & health assistant | [Live](https://github.com/sweetylearner-max/Nyssa) | TypeScript, Firebase |
-| 🪪 **UIDAI Dashboard** | Aadhaar enrolment analytics & visualization | [Live](https://uidai-hackathon-phi.vercel.app/) | TypeScript, React |
-| ✍️ **GenreGenie** | AI writing prompt generator | [Live](https://genregenie.top/) | Next.js, AI |
-| 🌌 **Solar System** | Interactive 3D solar system model | [Live](https://solarsystem-model.vercel.app/) | Three.js |
-| 🎮 **Garbage Grabber** | 3D browser game | [Live](https://sweetylearner-max.github.io/Garbage-Grabber/) | Unity WebGL |
-| 🎬 **CineSquad** | Watch movies together platform | [Live](https://cinesquad-by-akanksha.netlify.app/) | React |
+[![trophy](https://github-profile-trophy.vercel.app/?username=sweetylearner-max&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🎖️ Badges & Activity
+
+<div align="center">
+
+![Commits Badge](https://img.shields.io/badge/Total%20Commits-500%2B-c800a1?style=for-the-badge&logo=git&logoColor=white)
+![Repos Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsweetylearner-max&query=%24.public_repos&style=for-the-badge&logo=github&logoColor=white&label=Public%20Repos&color=7b2ff7)
+![Hackathons Badge](https://img.shields.io/badge/Hackathons%20Won-3-ff6b6b?style=for-the-badge&logo=trophy&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-3ECF8E?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sweetylearner-max&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -154,12 +159,6 @@ class AkankshaB:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sweetylearner-max&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweetylearner-max&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sweetylearner-max&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
