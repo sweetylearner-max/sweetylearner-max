@@ -187,8 +187,9 @@ class AkankshaB:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:c800a1,100:ff6b6b&height=100&section=footer" width="100%"/>
 
 </div>
+$badgeSection = @"
 
-## ?? GSSoC'26 Badges
+## 🏆 GSSoC Achievements
 
 <div align="center">
 
@@ -203,3 +204,6 @@ class AkankshaB:
 <img src="assets/badges/gssoc-badge-role_ambassador.png" width="110" alt="Ambassador"/>
 
 </div>
+"@
+
+Add-Content -Path README.md -Value $badgeSection -Encoding utf8
